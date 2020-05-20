@@ -16,7 +16,6 @@ ipython_config.py
 #   git rm -r .ipynb_checkpoints/
 
 ### Codenation Files ###
-.pytest_cache/
 __pycache__/
 venv/
 __init__.py
