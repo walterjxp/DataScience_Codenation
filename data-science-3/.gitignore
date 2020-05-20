@@ -17,6 +17,7 @@ ipython_config.py
 
 ### Codenation Files ###
 __pycache__/
+/.pytest_cache/
 venv/
 __init__.py
 main.py
